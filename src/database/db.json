@@ -1,0 +1,28 @@
+{
+  "user": [
+    {
+      "id": "717c",
+      "firstName": "Harshil",
+      "lastName": "Talsaniya",
+      "emailAddress": "harshil@gmail.com",
+      "phone": "6785468787",
+      "dateOfBirth": "2000-03-17"
+    },
+    {
+      "id": "1d87",
+      "firstName": "Manav",
+      "lastName": "Parvadiya",
+      "emailAddress": "manavparvadiya344@gmail.com",
+      "phone": "4378580115",
+      "dateOfBirth": "1997-09-09"
+    },
+    {
+      "id": "5f43",
+      "firstName": "Aksha",
+      "lastName": "Parvadiya",
+      "emailAddress": "akshaparvadiya344@gmail.com",
+      "phone": "4378580115",
+      "dateOfBirth": "2001-01-17"
+    }
+  ]
+}
